@@ -1,5 +1,6 @@
+#
 ---
-# permalink: /about/
-# title: "About"
+ permalink: /about/
+ title: "About"
 ---
 

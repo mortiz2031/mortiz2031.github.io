@@ -61,12 +61,7 @@ author:
   name   : "Marco Ortiz"
   avatar : "/assets/images/aiheadshotforlinkedin.png"
   
- # bio    : "I recently completed an intensive cybersecurity bootcamp through QuickStart Inc. and earned my CompTIA Security+ certification, validating my skills in network security, risk management, and incident response.
-
-In the lab, I’ve worked with Wireshark, Kali Linux, and Metasploit to analyze vulnerabilities and simulate real-world attacks. My approach is methodical, data-driven, and rooted in problem-solving—whether optimizing retail operations or scanning networks for threats.
-
-I thrive where curiosity, strategy, and technical rigor intersect. To deepen my understanding of endpoint detection and response, I built an Active Directory home lab featuring a custom network, Windows Server, Kali Linux, and Splunk Universal Forwarder. I integrated Sysmon and Atomic Red Team to simulate adversarial techniques and validate detection logic.
-I recently completed QuickStart's Cybersecurity bootcamp, gaining hands-on experience with network security, system hardening, and vulnerability assessments. I'm now seeking to launch a career in cybersecurity, where I can apply my skills to protect and defend digital infrastructure."
+ # bio    : "I recently earned my CompTIA Security+ certification after completing QuickStart’s Cybersecurity Bootcamp, where I gained hands-on experience in network security, system hardening, and vulnerability assessments. I’m now actively pursuing a career in cybersecurity, focused on protecting and defending digital infrastructure. My main projects showcase practical skills in virtual network design, threat detection, and penetration testing."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

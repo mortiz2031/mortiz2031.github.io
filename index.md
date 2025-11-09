@@ -4,9 +4,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
-
-
 ---
+
+
 
  <h2 style="text-align:left;"><strong>🔥 Featured Cybersecurity Projects</strong></h2>
 

@@ -6,6 +6,7 @@ layout: single
 author_profile: true
 ---
 
+I recently earned my CompTIA Security+ certification after completing QuickStart’s Cybersecurity Bootcamp, where I gained hands-on experience in network security, system hardening, and vulnerability assessments. My main projects showcase practical skills in virtual network design, threat detection, and penetration testing. Driven by curiosity and a passion for continuous learning, I’ve built an Active Directory home lab to explore endpoint telemetry, threat detection, and adversary simulation using tools like Splunk, Sysmon, and Atomic Red Team. I’m now focused on launching a cybersecurity career where I can apply these skills to protect and defend digital infrastructure.
 
 
  <h2 style="text-align:left;"><strong>🔥 Featured Cybersecurity Projects</strong></h2>

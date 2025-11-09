@@ -36,11 +36,13 @@ This project showcases a vulnerability assessment within a simulated enterprise 
 
 This project walks through a Capture the Flag-style penetration testing simulation. It highlights techniques for discovering vulnerabilities, exploiting misconfigurations, and escalating privileges in a controlled lab environment.
 
-## 🔧 Hands-On Cybersecurity Projects
+
+
+<h2 style="text-align:left;"><strong>🔧 Hands-On Cybersecurity Projects</strong></h2>
 
 
 
-## 🧠 Active Directory Home Lab
+### 🧠 Active Directory Home Lab
 
 This project simulates a small enterprise environment with centralized identity management, endpoint telemetry, and threat detection. It integrates Windows Server, Splunk, Sysmon, and Atomic Red Team to demonstrate how security teams monitor and respond to suspicious activity.
 

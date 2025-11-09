@@ -5,7 +5,7 @@
 layout: single
 author_profile: true
 ---
-I recently completed QuickStart's Cybersecurity bootcamp, gaining hands-on experience with network security, system hardening, and vulnerability assessments. I'm now seeking to launch a career in cybersecurity, where I can apply my skills to protect and defend digital infrastructure. Currently, I'm preparing for the CompTIA Security+ certification to further strengthen my technical foundation. 
+
 
 ## 🔥 Featured Cybersecurity Projects
 

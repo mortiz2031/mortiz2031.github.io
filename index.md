@@ -3,11 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-title: "Marco Ortiz Portfolio"
-author_profile: false
-header:
-   overlay: false
-   show title: flase
+
 ---
 
 ## 🔥 Featured Cybersecurity Projects

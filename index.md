@@ -9,7 +9,7 @@ header:
 
 ---
 
-## 🔥 Featured Cybersecurity Projects
+ 🔥 Featured Cybersecurity Projects
 
 
 

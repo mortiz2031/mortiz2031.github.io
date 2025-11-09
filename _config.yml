@@ -61,7 +61,7 @@ author:
   name   : "Marco Ortiz"
   avatar : "/assets/images/aiheadshotforlinkedin.png"
   
-  bio    : "I recently earned my CompTIA Security+ certification after completing QuickStart’s Cybersecurity Bootcamp, where I gained hands-on experience in network security, system hardening, and vulnerability assessments. My main projects showcase practical skills in virtual network design, threat detection, and penetration testing. Driven by curiosity and a passion for continuous learning, I’ve built an Active Directory home lab to explore endpoint telemetry, threat detection, and adversary simulation using tools like Splunk, Sysmon, and Atomic Red Team. I’m now focused on launching a cybersecurity career where I can apply these skills to protect and defend digital infrastructure."
+#  bio    : "I recently earned my CompTIA Security+ certification after completing QuickStart’s Cybersecurity Bootcamp, where I gained hands-on experience in network security, system hardening, and vulnerability assessments. My main projects showcase practical skills in virtual network design, threat detection, and penetration testing. Driven by curiosity and a passion for continuous learning, I’ve built an Active Directory home lab to explore endpoint telemetry, threat detection, and adversary simulation using tools like Splunk, Sysmon, and Atomic Red Team. I’m now focused on launching a cybersecurity career where I can apply these skills to protect and defend digital infrastructure."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
